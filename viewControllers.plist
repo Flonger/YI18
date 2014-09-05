@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>viewcontrollername</key>
+		<string>XFLNewsViewController</string>
+		<key>title</key>
+		<string>新闻知识</string>
+	</dict>
+	<dict>
+		<key>viewcontrollername</key>
+		<string>XFLMedicinalViewController</string>
+		<key>title</key>
+		<string>药品食疗</string>
+	</dict>
+	<dict>
+		<key>viewcontrollername</key>
+		<string>XFLDiseaseViewController</string>
+		<key>title</key>
+		<string>疾病查询</string>
+	</dict>
+	<dict>
+		<key>viewcontrollername</key>
+		<string>XFLHospitalViewController</string>
+		<key>title</key>
+		<string>医院相关</string>
+	</dict>
+	<dict>
+		<key>viewcontrollername</key>
+		<string>XFLMoreViewController</string>
+		<key>title</key>
+		<string>更多</string>
+	</dict>
+</array>
+</plist>
